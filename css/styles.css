@@ -21,7 +21,9 @@ body {
     color: var(--iris-color);
 }
 
-.list {}
+.list {
+    list-style: none;
+}
 
 .first:hover {
     color: #404bbf;
