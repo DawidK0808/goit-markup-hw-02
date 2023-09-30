@@ -18,7 +18,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--iris-color);
+    color: #4d5ae5;
 }
 
 .list {
@@ -100,7 +100,7 @@ body {
 }
 
 .section-first {
-    background-color: var(--color-section1);
+    background-color: #2e2f42;
 }
 
 .section-second {
