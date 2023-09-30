@@ -62,8 +62,14 @@ body {
 
 }
 
-.address {
+.address-list {
     font-style: normal;
+}
+
+.address-link {
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
 }
 
 .heading-three {
