@@ -21,6 +21,14 @@ body {
     color: #4d5ae5;
 }
 
+.link {
+    text-decoration: none;
+}
+
+.span {
+    color: #2e2f42;
+}
+
 .list {
     list-style: none;
 }
