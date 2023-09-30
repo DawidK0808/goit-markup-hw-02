@@ -49,6 +49,14 @@ body {
     color: #2e2f42;
 }
 
+.link:hover {
+    color: #404bbf;
+}
+
+.link:focus {
+    color: #404bbf;
+}
+
 .li-one {
     background-color: #FFFFFF;
 
